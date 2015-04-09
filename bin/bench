@@ -1,0 +1,10 @@
+#!/home/pitambar/Documents/frappenew/bin/python
+# EASY-INSTALL-ENTRY-SCRIPT: 'bench==0.1','console_scripts','bench'
+__requires__ = 'bench==0.1'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('bench==0.1', 'console_scripts', 'bench')()
+    )

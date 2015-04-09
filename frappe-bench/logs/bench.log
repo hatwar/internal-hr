@@ -1,0 +1,5 @@
+2015-04-04 15:09:43,124 INFO getting app erpnext
+2015-04-04 15:09:54,501 INFO installing erpnext
+2015-04-04 15:12:39,344 INFO setting up sudoers
+2015-04-04 15:12:43,562 INFO pulling frappe
+2015-04-04 15:12:45,679 INFO pulling erpnext
